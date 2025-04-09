@@ -1,22 +1,23 @@
-# 🎬 Netflix Data Cleaning Project
+#  Netflix Data Cleaning Project
 
 This project focuses on cleaning the Netflix Movies and TV Shows dataset as part of an internship task. The goal was to preprocess the data, handle missing values, and prepare it for future analysis.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 
 Netflix_Data_Cleaning:-
-folders-
-1-cleaned_netflix (Folder with cleaned dataset │ )
- cleaned_netflix.csv 
-2-│ Netflix_Data_Cleaning.ipynb (folder with ipynb file)
- Netflix_Data_Cleaning.ipynb (Jupyter notebook with cleaning steps)
-3-netflix_titles ( Folder with original raw dataset)
- netflix_titles.csv 
-4 README.md folder
- README.md (project / task details)
+
+1-Netflix_Data_Cleaning.ipynb (Jupyter notebook with cleaning steps)
+
+2-README.md (project / task details)
+
+3- cleaned_netflix .csv( cleaned dataset  )
+
+4-netflix_titles.csv ( original raw dataset)
+ 
+
 
 
 ---
@@ -38,15 +39,15 @@ folders-
 -> All data is check for missing values agian after cleaning to ensure data Inconsitency and Integrity
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
-- Python 🐍
-- Pandas 📊
-- Jupyter Notebook 📓
+- Python 
+- Pandas 
+- Jupyter Notebook 
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Clone the repository:
    ```bash
@@ -55,8 +56,8 @@ folders-
 
 
 
-🙋‍♂️ About Me
+ About Me
 Hi, I’m Vaibhav Thakur data analyst enthusiast currently exploring real-world datasets.
 This was part of my internship learning experience.
 
-📧 Email: [gaur.vaibhavthakur@gmail.com]
+ Email: [gaur.vaibhavthakur@gmail.com]
